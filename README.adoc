@@ -4,7 +4,7 @@ This library allows to create non blocking delays and complex timings on Arduino
 The pulse output can be any Arduino pin or simply a boolean variable which allows more logic combinaison for complex timings
 
 For more information about this library please visit us at
-http://www.arduino.cc
+https://github.com/plouc68000/pulse
 
 == License ==
 

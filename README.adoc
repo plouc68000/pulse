@@ -28,7 +28,7 @@ The code for generating a non-blocking pulse on LED2 pin needs only the followin
 digitalWrite(LED2,HIGH);
 
 // 1.2 A simple Update() is needed in the loop() to provide the non-blocking pulse pulse duration 
-//and turning LED2 pin to LOW when the Time is elapsed.
+// and turning LED2 pin to LOW when the Time is elapsed.
 
 led22.Update();
 

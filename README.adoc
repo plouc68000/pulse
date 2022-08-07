@@ -46,7 +46,7 @@ with more conditional code for creating complex non-blocking timings without con
 
 bool flag1;
 
-// flag11 = instanciation of flag acting on flag1 global variable with a ON time of 5000 ms
+// flag11 = instantiation of flag acting on flag1 global variable with a ON time of 5000 ms
 
 flag flag11(flag1,5000);
 

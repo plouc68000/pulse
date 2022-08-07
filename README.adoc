@@ -38,9 +38,9 @@ led22.Update();
 2) pulse on a flag  ( see example pulse_on_a_boolean.ino )
 ------------------
 
-The philosophy is the same as pulsing on a Arduino pin, just that the pulse is acting on a global boolean variable
-rather then on a Arduino hardware pin. This gives the flexibility of combining the boolean variable with more 
-conditional code for creating complex non-blocking timings without consuming a Arduino physical output pin.
+The philosophy is the same as pulsing on a Arduino pin, the difference is that the pulse is acting on a global 
+boolean variable rather then on a Arduino hardware pin. This gives the flexibility of combining the boolean variable 
+with more conditional code for creating complex non-blocking timings without consuming Arduino physical output pins.
 
 // global boolean variable where pulse is acting on
 
